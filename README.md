@@ -4,10 +4,6 @@
 
 ###
 
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/154934525?s=400&u=cca718e1f86d1d709203dbe0b4c3a5c469193cfe&v=4"  />
-
-###
-
 <h1 align="left">Hey 👋 I'm Ilyass</h1>
 
 ###
@@ -104,6 +100,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/9IlyAss/9IlyAss/snake-output/snake.svg" alt="Snake animation" />
 
